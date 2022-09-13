@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goItHw2.2/static/css/main.7acaea2f.css",
+    "main.js": "/goItHw2.2/static/js/main.37ac3008.js",
+    "index.html": "/goItHw2.2/index.html",
+    "main.7acaea2f.css.map": "/goItHw2.2/static/css/main.7acaea2f.css.map",
+    "main.37ac3008.js.map": "/goItHw2.2/static/js/main.37ac3008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.37ac3008.js"
+  ]
+}
